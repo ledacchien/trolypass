@@ -1,0 +1,179 @@
+# Danh mục các sản phẩm căn hộ cho thuê (Tổng cộng 17 căn hộ)
+
+## Tầng 2 (5 Căn hộ)
+
+### 1. Căn hộ cho thuê tại tầng 2 - Phòng 2A
+- **Mã sản phẩm**: CA2A
+- **Mô tả sơ bộ**: Diện tích 65m², 2 phòng ngủ, 1 phòng tắm, giá thuê 9 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm tủ lạnh, máy giặt, điều hòa, giường ngủ, tủ quần áo.
+- **Thiết bị điện nước**: Hệ thống điện nước ổn định, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 2, chung cư cao cấp, gần trường học và bệnh viện.
+- **Các tiện ích**: Sân chơi, khu vực bảo vệ 24/7, chỗ để xe.
+
+### 2. Căn hộ cho thuê tại tầng 2 - Phòng 2B
+- **Mã sản phẩm**: CA2B
+- **Mô tả sơ bộ**: Diện tích 70m², 2 phòng ngủ, 1 phòng tắm, giá thuê 10 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất cao cấp, bao gồm sofa, tủ quần áo, giường, máy giặt, bàn ăn.
+- **Thiết bị điện nước**: Đầy đủ thiết bị điện nước, hệ thống cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 2, chung cư cao cấp, khu vực yên tĩnh, gần các tiện ích công cộng.
+- **Các tiện ích**: An ninh 24/7, bảo vệ khu vực, có khu vực sân chơi.
+
+### 3. Căn hộ cho thuê tại tầng 2 - Phòng 2C
+- **Mã sản phẩm**: CA2C
+- **Mô tả sơ bộ**: Diện tích 75m², 3 phòng ngủ, 2 phòng tắm, giá thuê 10.5 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm máy giặt, tủ lạnh, điều hòa, bàn ăn.
+- **Thiết bị điện nước**: Hệ thống cấp nước sạch, máy nước nóng, ổ cắm điện tiêu chuẩn.
+- **Vị trí**: Tầng 2, chung cư cao cấp, gần các trung tâm mua sắm.
+- **Các tiện ích**: Khu vực bảo vệ 24/7, gần các trường học, bệnh viện.
+
+### 4. Căn hộ cho thuê tại tầng 2 - Phòng 2D
+- **Mã sản phẩm**: CA2D
+- **Mô tả sơ bộ**: Diện tích 80m², 3 phòng ngủ, 2 phòng tắm, giá thuê 12 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất cao cấp, bao gồm điều hòa, máy giặt, sofa.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 2, chung cư cao cấp, gần các trung tâm thương mại.
+- **Các tiện ích**: Bảo vệ 24/7, sân chơi cho trẻ em.
+
+### 5. Căn hộ cho thuê tại tầng 2 - Phòng 2E
+- **Mã sản phẩm**: CA2E
+- **Mô tả sơ bộ**: Diện tích 85m², 3 phòng ngủ, 2 phòng tắm, giá thuê 13 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm tủ quần áo, giường ngủ, điều hòa.
+- **Thiết bị điện nước**: Hệ thống điện nước ổn định, có máy nước nóng, hệ thống cấp nước sạch.
+- **Vị trí**: Tầng 2, chung cư cao cấp, gần các khu vui chơi, trường học.
+- **Các tiện ích**: An ninh 24/7, có khu vực sân chơi.
+
+## Tầng 3 (5 Căn hộ)
+
+### 6. Căn hộ cho thuê tại tầng 3 - Phòng 3A
+- **Mã sản phẩm**: CA3A
+- **Mô tả sơ bộ**: Diện tích 90m², 3 phòng ngủ, 2 phòng tắm, giá thuê 14 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất cao cấp, bao gồm sofa, tủ lạnh, máy giặt.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 3, chung cư cao cấp, gần công viên.
+- **Các tiện ích**: Bảo vệ 24/7, gần các trường học.
+
+### 7. Căn hộ cho thuê tại tầng 3 - Phòng 3B
+- **Mã sản phẩm**: CA3B
+- **Mô tả sơ bộ**: Diện tích 95m², 3 phòng ngủ, 2 phòng tắm, giá thuê 14.5 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm điều hòa, giường ngủ, tủ quần áo.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 3, chung cư cao cấp, gần các khu trung tâm mua sắm.
+- **Các tiện ích**: Gần các bệnh viện, trường học.
+
+### 8. Căn hộ cho thuê tại tầng 3 - Phòng 3C
+- **Mã sản phẩm**: CA3C
+- **Mô tả sơ bộ**: Diện tích 100m², 3 phòng ngủ, 2 phòng tắm, giá thuê 15 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất cao cấp, bao gồm tủ quần áo, máy giặt, điều hòa.
+- **Thiết bị điện nước**: Cấp nước sạch, máy nước nóng, ổ cắm điện tiêu chuẩn.
+- **Vị trí**: Tầng 3, chung cư cao cấp, gần bệnh viện, trường học.
+- **Các tiện ích**: Khu vực bảo vệ 24/7, gần công viên.
+
+### 9. Căn hộ cho thuê tại tầng 3 - Phòng 3D
+- **Mã sản phẩm**: CA3D
+- **Mô tả sơ bộ**: Diện tích 105m², 3 phòng ngủ, 2 phòng tắm, giá thuê 16 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm sofa, bàn ăn, điều hòa.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 3, chung cư cao cấp, gần công viên, khu vui chơi.
+- **Các tiện ích**: Bảo vệ 24/7, khu vui chơi cho trẻ em.
+
+### 10. Căn hộ cho thuê tại tầng 3 - Phòng 3E
+- **Mã sản phẩm**: CA3E
+- **Mô tả sơ bộ**: Diện tích 110m², 4 phòng ngủ, 2 phòng tắm, giá thuê 18 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất cao cấp, bao gồm tủ lạnh, máy giặt, điều hòa.
+- **Thiết bị điện nước**: Hệ thống điện nước đầy đủ, máy nước nóng, ổ cắm điện tiêu chuẩn.
+- **Vị trí**: Tầng 3, chung cư cao cấp, gần các trung tâm thương mại.
+- **Các tiện ích**: An ninh 24/7, khu vực sân chơi.
+
+## Tầng 4 (5 Căn hộ)
+
+### 11. Căn hộ cho thuê tại tầng 4 - Phòng 4A
+- **Mã sản phẩm**: CA4A
+- **Mô tả sơ bộ**: Diện tích 115m², 4 phòng ngủ, 2 phòng tắm, giá thuê 20 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất cao cấp, bao gồm giường ngủ, tủ quần áo, điều hòa.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 4, chung cư cao cấp, gần công viên và trường học.
+- **Các tiện ích**: Sân chơi trẻ em, khu vực để xe.
+
+### 12. Căn hộ cho thuê tại tầng 4 - Phòng 4B
+- **Mã sản phẩm**: CA4B
+- **Mô tả sơ bộ**: Diện tích 120m², 4 phòng ngủ, 3 phòng tắm, giá thuê 21 triệu VND/tháng.
+  
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm máy giặt, tủ lạnh, điều hòa.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 4, chung cư cao cấp, khu vực phát triển.
+- **Các tiện ích**: Bảo vệ 24/7, chỗ để xe riêng.
+
+### 13. Căn hộ cho thuê tại tầng 4 - Phòng 4C
+- **Mã sản phẩm**: CA4C
+- **Mô tả sơ bộ**: Diện tích 125m², 4 phòng ngủ, 3 phòng tắm, giá thuê 22 triệu VND/tháng.
+
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm điều hòa, sofa, giường ngủ, tủ quần áo.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 4, chung cư cao cấp, gần trường học và bệnh viện.
+- **Các tiện ích**: Khu vực bảo vệ 24/7, gần các trung tâm mua sắm.
+
+### 14. Căn hộ cho thuê tại tầng 4 - Phòng 4D
+- **Mã sản phẩm**: CA4D
+- **Mô tả sơ bộ**: Diện tích 130m², 4 phòng ngủ, 3 phòng tắm, giá thuê 23 triệu VND/tháng.
+
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất đầy đủ, bao gồm tủ quần áo, giường ngủ, điều hòa, sofa, bàn ăn.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng.
+- **Vị trí**: Tầng 4, chung cư cao cấp, gần các trung tâm mua sắm.
+- **Các tiện ích**: An ninh tốt, sân chơi cho trẻ em, chỗ để xe riêng.
+
+### 15. Căn hộ cho thuê tại tầng 4 - Phòng 4E
+- **Mã sản phẩm**: CA4E
+- **Mô tả sơ bộ**: Diện tích 140m², 5 phòng ngủ, 3 phòng tắm, giá thuê 25 triệu VND/tháng.
+
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất cao cấp, bao gồm tủ lạnh, máy giặt, điều hòa, giường ngủ, bàn ăn.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha, cấp nước sạch, máy nước nóng, ổ cắm điện tiêu chuẩn.
+- **Vị trí**: Tầng 4, chung cư cao cấp, khu vực yên tĩnh, gần các công viên.
+- **Các tiện ích**: An ninh 24/7, có khu vực sân chơi và khu vực BBQ ngoài trời.
+
+## Tầng 5 (Penthouses - 2 Căn hộ)
+
+### 16. Căn hộ Penthouse tại tầng 5 - Phòng 5A
+- **Mã sản phẩm**: CA5A
+- **Mô tả sơ bộ**: Penthouse siêu sang, diện tích 185m², 5 phòng ngủ, 4 phòng tắm, view panorama triệu đô, giá thuê 27 triệu VND/tháng.
+
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất thiết kế độc bản, cực kỳ xa hoa và đầy đủ tiện nghi, bao gồm hệ thống giải trí thông minh, sofa da nhập khẩu, giường ngủ King size chuẩn hoàng gia, tủ quần áo walk-in, hệ thống điều hòa trung tâm công nghệ mới nhất, bàn ăn lớn cho những bữa tiệc sang trọng, bếp đảo hiện đại với đầy đủ thiết bị cao cấp.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha ưu tiên, cấp nước sạch tinh khiết, hệ thống nước nóng năng lượng mặt trời kết hợp điện, ổ cắm điện đa năng tiêu chuẩn quốc tế, hệ thống chiếu sáng nghệ thuật.
+- **Vị trí**: Tầng 5 (tầng thượng đẳng cấp), chung cư cao cấp nhất khu vực, tầm nhìn panorama 360 độ bao quát công viên trung tâm và toàn cảnh thành phố lung linh, vị trí vàng gần các trường học quốc tế danh tiếng và khu tài chính.
+- **Các tiện ích**: An ninh đa lớp 24/7 với thẻ từ và nhận diện khuôn mặt, lối đi riêng biệt và thang máy ưu tiên, khu vui chơi trẻ em chuẩn quốc tế, sân thượng riêng biệt siêu rộng với vườn treo và khu vực BBQ/lounge ngoài trời đẳng cấp, quyền sử dụng không giới hạn các tiện ích 5 sao của tòa nhà (hồ bơi vô cực, gym & spa, phòng xì gà, thư viện).
+
+### 17. Căn hộ Penthouse tại tầng 5 - Phòng 5B
+- **Mã sản phẩm**: CA5B
+- **Mô tả sơ bộ**: Penthouse thượng lưu, diện tích 195m², 5 phòng ngủ, 4 phòng tắm, ban công kính viễn cảnh, giá thuê 28 triệu VND/tháng.
+
+#### Mô tả chi tiết:
+- **Nội thất**: Nội thất bespoke chế tác thủ công, thể hiện đẳng cấp thượng lưu, bao gồm tủ quần áo thông minh tự động, giường ngủ Hoàng đế (Emperor size) với nệm cao su thiên nhiên, hệ thống máy giặt sấy công nghệ AI, điều hòa không khí lọc bụi mịn và tạo ion, bếp từ đa điểm thông minh kết hợp lò nướng và vi sóng âm tủ.
+- **Thiết bị điện nước**: Hệ thống điện 3 pha ổn định tuyệt đối, nguồn nước khoáng tại vòi, máy nước nóng trung tâm công suất lớn, hệ thống chiếu sáng điều khiển bằng giọng nói và smartphone.
+- **Vị trí**: Tầng 5 (đỉnh cao của tòa nhà), chung cư siêu cao cấp, hướng nhìn trực diện ra trung tâm thương mại sầm uất và hồ điều hòa thơ mộng, kết nối trực tiếp với các tuyến đường huyết mạch.
+- **Các tiện ích**: Hệ thống an ninh tối tân với đội ngũ bảo vệ chuyên nghiệp và công nghệ AI, chỗ để xe VIP riêng biệt có mái che, khu vực BBQ sky-garden riêng tư, quyền lui tới business lounge, phòng chiếu phim mini, và các dịch vụ concierge đặc quyền (đặt xe, nhà hàng, vé máy bay).
